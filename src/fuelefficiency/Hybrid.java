@@ -20,7 +20,7 @@ public class Hybrid extends Vechile {
      * post:Initializes defultName, creates a hybrid object.
      */
     public Hybrid(){
-        defultName ="Car";
+        defultName ="Hybrid";
     }
       /**Method
      * pre:none
